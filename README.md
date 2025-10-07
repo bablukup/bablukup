@@ -37,6 +37,7 @@ I probably spend more time in the **library** than at my home! 📚
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
