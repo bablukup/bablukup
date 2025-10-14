@@ -1,38 +1,44 @@
-# 👋 Hi, I'm Bablu Kumar  
+# 👋 Hi, I'm Bablu Kumar
 
-🚀 **Full Stack Web Developer** | 🇮🇳 India  
-
-Passionate about **building impactful products**, contributing to **open source**, and continuously **learning & growing**.  
-
----
-
-## 🔭 Current Focus  
-- Developing **real-world full-stack projects**  
-- Deep-diving into **React.js**, **Next.js**, **System Design**, and **Open Source Contribution**  
-- Preparing for **remote opportunities** in startups  
+🚀 **Full Stack Web Developer** | 🇮🇳  
+Passionate about **building impactful products**, contributing to **open source**, and continuously **learning & growing**.
 
 ---
 
-## 💡 What I Do  
-- **MERN Stack Development** (MongoDB · Express · React · Node)  
-- Build and consume **REST APIs**  
-- End-to-end **deployment** (Render · Vercel · Netlify)  
-- Version control & collaboration with **Git/GitHub**  
+## 🔭 Current Focus
+
+- Developing **real-world full-stack projects** with modern tech stacks
+- Deep-diving into **React.js**, **Next.js**, **System Design**, and **Open Source Contribution**
+- Building **scalable applications** with a focus on performance and user experience
+- Preparing for **remote opportunities** in startups and high-growth companies
 
 ---
 
-## 🎯 Goals  
-- Build an **AI-powered product**  
-- Launch my own **startup** in the future 🚀  
+## 💡 What I Do
+
+- **MERN Stack Development** (MongoDB · Express · React · Node.js)
+- Build and consume **REST APIs** with best practices
+- End-to-end **deployment & DevOps** (Render · Vercel · Netlify)
+- Version control & collaboration with **Git/GitHub**
+- Responsive design and **UI/UX optimization**
 
 ---
 
-## 🤓 Fun Fact  
-I probably spend more time in the **library** than at my home! 📚  
+## 🎯 Goals
+
+- Build an **AI-powered SaaS product** 🤖
+- Launch my own **startup** in the future 🚀
+- Contribute to impactful **open-source projects**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🤓 Fun Fact
+
+I probably spend more time in the **library** than at my home! 📚 Coffee + Code = My productivity formula ☕
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,8 +71,27 @@ I probably spend more time in the **library** than at my home! 📚
 
 ---
 
-## 🔗 Connect With Me  
-- [Twitter (X)](https://x.com/Bablukup)  
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bablukup&theme=dark)
 
 ---
-⭐️ *Always open to collaborating on impactful projects and startup ideas!*
+
+## 🔗 Connect With Me
+
+- [Twitter (X)](https://x.com/Bablukup)
+- [LinkedIn](https://www.linkedin.com/in/bablukup/)
+- [Email](bk596572@gmail.com)
+> 🚀 **Portfolio coming soon...** Currently building something awesome! Stay tuned!
+
+---
+
+## 💬 Let's Talk!
+
+⭐️ **Always open to collaborating on impactful projects and startup ideas!**
+
+Feel free to reach out if you want to discuss tech, startups, or just grab a coffee ☕
+
+---
+
+*Last updated: October 2025*
