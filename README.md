@@ -73,7 +73,8 @@ I probably spend more time in the **library** than at my home! 📚 Coffee + Cod
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bablukup&theme=dark)
+<!-- GitHub Streak Stats (Updated Service) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=bablukup&theme=dark)
 
 ---
 
